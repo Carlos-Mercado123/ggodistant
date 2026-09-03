@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+:root {
+  --color-canvas: #eae6df;
+  --color-surface: #ffffff;
+  --color-surface-subtle: #f0f2f5;
+  --color-brand: #008069;
+  --color-accent: #00a884;
+  --color-ink: #111b21;
+  --color-ink-muted: #667781;
+  --color-bubble: #d9fdd3;
+  --color-bubble-border: #53bdeb;
+  --color-line: #e9edef;
+  --color-success: #1fa855;
+  --color-danger: #ea0038;
+  --color-link: #027eb5;
+}
+
+@theme inline {
+  --color-canvas: var(--color-canvas);
+  --color-surface: var(--color-surface);
+  --color-surface-subtle: var(--color-surface-subtle);
+  --color-brand: var(--color-brand);
+  --color-accent: var(--color-accent);
+  --color-ink: var(--color-ink);
+  --color-ink-muted: var(--color-ink-muted);
+  --color-bubble: var(--color-bubble);
+  --color-bubble-border: var(--color-bubble-border);
+  --color-line: var(--color-line);
+  --color-success: var(--color-success);
+  --color-danger: var(--color-danger);
+  --color-link: var(--color-link);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --font-serif: var(--font-lora);
+}
+
+body {
+  background: var(--color-canvas);
+  color: var(--color-ink);
+  font-family: var(--font-sans), "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/*
+ * Institutional theme for the public "consulta" view: a formal, editorial
+ * palette (parchment / navy / bronze) distinct from the WhatsApp-styled
+ * admin tool, scoped so it never affects /panel.
+ */
+.theme-academic {
+  --color-canvas: #f4f1e8;
+  --color-surface: #fffdf8;
+  --color-surface-subtle: #ece6d6;
+  --color-brand: #1c2b47;
+  --color-accent: #a3812f;
+  --color-ink: #1e2330;
+  --color-ink-muted: #6b6353;
+  --color-bubble: #faf7ee;
+  --color-bubble-border: #a3812f;
+  --color-line: #e2dbc8;
+  --color-success: #3f6b4c;
+  --color-danger: #8a3230;
+  --color-link: #2b4f66;
+}

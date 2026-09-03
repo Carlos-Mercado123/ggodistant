@@ -1,0 +1,433 @@
+{
+  "config_filtros": {
+    "clientes": [
+      "Precio",
+      "Técnico",
+      "Ocupado",
+      "Indeciso"
+    ],
+    "objeciones": [
+      "Falta de tiempo",
+      "Precio alto",
+      "Duda de calidad online"
+    ]
+  },
+  "universidad": [
+    {
+      "titulo": "🌟 Respaldo, Certificaciones y Acreditaciones",
+      "concepto": "✅ Respaldo de SUNEDU con más de 28 años de trayectoria y 80,000 estudiantes a nivel global.\n✅ Única universidad en el Perú con el Sello Europeo 'Sofía' y certificación ANECA (España).\n✅ Máxima calificación de 5 estrellas en el ránking mundial QS Stars en Aprendizaje en Línea y Empleabilidad.\n✅ Acreditación norteamericana ACBSP (Negocios) e ICACIT (Ingenierías).\n✅ Infraestructura de 6 sedes licenciadas (Lima, Huancayo, Arequipa, Cusco, Ayacucho e Ica) con más de 33 carreras.",
+      "speech": "\"...Justo por eso que me cuentas, es clave que tengas un respaldo real. En la Universidad Continental no te damos un título cualquiera; estás respaldado por SUNEDU y más de 28 años de trayectoria. De hecho, somos la única universidad en todo el Perú con el Sello Europeo Sofía y la certificación ANECA de España. Sumado a eso, el ránking mundial QS Stars nos dio la máxima calificación de 5 estrellas en Educación Online y Empleabilidad. Al final del día, lo que buscas es que tu inversión pese fuerte en el mercado. Si dejamos esto listo de una vez, ya mañana aseguras tu vacante con total tranquilidad. ¿Te parece si validamos tus datos para avanzar?\"",
+      "tags": "técnico, indeciso, duda de calidad online",
+      "links": "https://estudiantes.ucontinental.edu.pe/noticias/uc-comprometida-con-la-excelencia-nuestras-acreditaciones-nos-respaldan/"
+    },
+    {
+      "titulo": "✈️ Internacionalización (UC Global)",
+      "concepto": "✅ Red de más de 250 convenios internacionales de intercambio académico (Programa Outgoing).\n✅ Opciones de Doble Titulación directa con Continental Florida University (EE. UU.), México y España.\n✅ Internacionalización flexible en casa mediante clases espejo interactivas, misiones académicas y pasantías virtuales sin pausar tu trabajo.",
+      "speech": "\"...Escuchando tus metas, hay algo que implementamos aquí con el programa UC Global que te va a encajar perfecto. No te limitas a estudiar solo para el mercado local; tienes las puertas abiertas a más de 250 convenios internacionales. Incluso puedes optar por un Doble Título con la Continental Florida University para graduarte con un grado peruano y otro estadounidense a la vez. Lo mejor es que, si por trabajo no puedes viajar, vives toda la experiencia internacional desde casa con clases espejo y proyectos virtuales. Vale totalmente la pena dar el paso hoy mismo para no seguir postergando tu perfil global. ¿Te gustaría llevar clases con docentes extranjeros?\"",
+      "tags": "indeciso, ocupado, falta de tiempo",
+      "links": "https://ucontinental.edu.pe/uc-global/convocatorias/\nhttps://ucontinental.edu.pe/blog/internacionalizacion/convenios-internacionales-universidades/#section-doble-titulacion-o-doble-grado-ee-uu-mexico-espana"
+    },
+    {
+      "titulo": "🏆 Becas y Apoyo Financiero",
+      "concepto": "✅ Becas por Excelencia Académica: Incentivos y semibecas concursables ciclo a ciclo basadas en el promedio ponderado más alto dentro de tu misma modalidad y campus.\n✅ Prórroga de Pagos: Flexibilidad financiera para extender el vencimiento de tus cuotas académicas sin penalizaciones ni cobros por gastos administrativos.\n✅ Beca Alianza del Pacífico: Financiamiento integral subvencionado para intercambios, pasantías y manutención en países miembros de la alianza.",
+      "speech": "\"...Entiendo perfectamente la parte económica, y por eso mismo en la Continental cuidamos tu inversión con soluciones reales. Si mantienes un buen promedio, compites directo por becas y semibecas dentro de tu misma modalidad. Además, si algún mes se te presenta un imprevisto, no te preocupes: cuentas con la Prórroga de Pagos para estirar tus fechas sin multas ni gastos administrativos. La idea es que tu presupuesto no sea un obstacle para avanzar. Si cerramos tu inscripción hoy, tendras un descuentos especial. ¿Desarias rendir tu admisión hoy o mañana?\"",
+      "tags": "precio, precio alto, indeciso",
+      "links": "https://estudiantes.ucontinental.edu.pe/tramites/beneficios-economicos-y-sociales/\nhttps://ucontinental.edu.pe/uc-global/estudiantes/estudiante-uc/"
+    },
+    {
+      "titulo": "💼 Empleabilidad e Inserción Laboral",
+      "concepto": "✅ Doctor CV: Plataforma interactiva con Inteligencia Artificial que audita y corrige tu currículum al instante para elevar tu competitividad.\n✅ Conexión Directa: Simulacros de entrevistas virtuales y talleres interactivos con gerentes y directores de Recursos Humanos de empresas líderes.\n✅ Programa E-Start: Convenio exclusivo con la Fundación Universidad-Empresa de Madrid para ejecutar prácticas profesionales internacionales de forma 100% virtual.\n✅ Bolsa de Trabajo: Acceso preferencial a ferias laborales y vacantes activas desde el 50% de créditos aprobados.",
+      "speech": "\"...Si lo que buscas es asegurar un mejor crecimiento laboral, lo que hacemos en la Continental te va a interesar mucho. Ponemos a tu disposición 'Doctor CV', una herramienta con Inteligencia Artificial que optimiza tu currículum al instante. Además, participas en simulacros de entrevistas con directores de Recursos Humanos de empresas líderes y tienes acceso al programa E-Start de Madrid para hacer prácticas virtuales en Europa desde casa. Quienes aprovechan esto suelen notar el cambio en su perfil profesional muy rápido. No le des más vueltas, es una decisión inteligente. ¿Te parece si validamos tus datos para iniciar el proceso?\"",
+      "tags": "indeciso, ocupado, duda de calidad online",
+      "links": "https://empleabilidad.ucontinental.edu.pe/estudiantes/"
+    },
+    {
+      "titulo": "🧑🏻‍💻 Acompañamiento Integral y Tutoría",
+      "concepto": "✅ Tutoría personalizada a través de la asignación de un Asesor de Acompañamiento Integral dedicado desde el inicio hasta la graduación.\n✅ Soporte continuo enfocado en el rendimiento académico, gestión eficaz del tiempo laboral-estudiantil, bienestar emocional y resolución de trámites en un solo clic.",
+      "speech": "\"...Sé que balancear el trabajo con el estudio genera dudas sobre el tiempo, pero justamente para eso diseñamos una estructura que te quita esa preocupación de encima. En la Continental nunca vas a estar solo; se te asigna un Asesor de Acompañamiento Integral desde el primer día hasta tu graduación. Te va a ayudar a organizar tus horarios y resolver cualquier trámite administrativo a un solo clic. Es el respaldo que necesitas para que tu carrera avance con total seguridad. \n¿Iniciamos con tu proceso verdad?\"",
+      "tags": "indeciso, técnico, falta de tiempo",
+      "links": "https://estudiantes.ucontinental.edu.pe/noticas/asesora-de-acompanamiento-integral-acompanamiento-durante-toda-tu-vida-universitaria/\nhttps://estudiantes.ucontinental.edu.pe/oficinas/mentoria-universitaria/#!/mentor"
+    },
+    {
+      "titulo": "📚 Hub de Información y Biblioteca Virtual",
+      "concepto": "✅ Ecosistema digital unificado 24/7 con acceso ilimitado a miles de libros, bases de datos científicas internacionales y repositorios académicos.\n✅ Incluye asesoría especializada en línea y tutorías personalizadas para el desarrollo ágil de investigaciones, proyectos y silabos.",
+      "speech": "\"...Para optimizar tus tiempos de estudio, la Continental te ofrece una solution pensada exactamente en la flexibilidad. Tendrás acceso 24/7 a nuestro Hub de Información, un ecosistema digital con miles de libros y bases de datos científicas internacionales a las que entras desde tu celular o laptop. Además, cuentas con asesores en línea en tiempo real para guiar tus investigaciones de forma ágil. Vale totalmente la pena asegurar este beneficio hoy mismo para que empieces con todas las herramientas listas ya que tendras toda la biblioteca desde casa. ¿Podriamos rendir tu evaluación hoy o mañana? Hoy cerramos un descuentos especial en admisión\"",
+      "tags": "técnico, ocupado, falta de tiempo",
+      "links": "https://repositorio.continental.edu.pe/\nhttps://hubinformacion.continental.edu.pe/libros-digitales/\nhttps://hubinformacion.continental.edu.pe/biblioteca-virtual/\nhttps://hubinformacion.continental.edu.pe/silabos-materiales-educativos/"
+    },
+    {
+      "titulo": "🧑🏻‍⚕️ Bienestar Estudiantil (Salud y Psicología)",
+      "concepto": "✅ Centro de Atención Psicológica (CAP): Soporte integral virtual gratuito en salud mental, orientación vocacional y control del estrés.\n✅ Centro Asistencial de Salud: Teleconsultas médicas preventivas y orientación en salud personalizada para asegurar tu rendimiento óptimo.",
+      "speech": "\"...Justo porque entendemos la carga del día a día, en la Continental no nos limitamos a lo académico. Nos tomamos muy en serio tu tranquilidad, por lo que cuentas con el Centro de Atención Psicológica (CAP) para soporte emocional y manejo del estrés, además de teleconsultas médicas personalizadas totalmente gratuitas y en línea. Es un respaldo de bienestar pensado para que rindas al máximo sin descuidar tu salud. Es una decisión inteligente para estudiar con total balance. ¿Con esa seguridad de la parte académica y bienestar tuyo te parece si iniciamos con tu proceso de admisión?\"",
+      "tags": "indeciso, ocupado, precio alto",
+      "links": "https://estudiantes.ucontinental.edu.pe/oficinas/bienestar-universitario/centro-de-atencion-psicologica/\nhttps://estudiantes.ucontinental.edu.pe/oficinas/bienestar-universitario/centro-asistencial-de-salud/"
+    },
+    {
+      "titulo": "💯 Wichay, Growth Center y FabLab",
+      "concepto": "✅ Wichay: Diseñada para llevar una idea de negocio al mercado. Brinda programas de incubación, mentores, acceso a capital semilla, fondos concursables y coworking digital para convertir proyectos en empresas reales y rentables.\n✅ Growth Center: Enfocado en el desarrollo personal, liderazgo y pensamiento emprendedor mediante cursos cortos (microlearnings), talleres de oratoria, argumentación y voluntariado.\n✅ FabLab (Fabricación Digital): Red nacional de laboratorios avanzados donde los alumnos contarán con herramientas tecnológicas e impresoras 3D para el prototipado físico de sus productos o ideas de negocio.",
+      "speech": "\"...Si tu meta va por el lado de los negocios, hay algo que implementamos aquí que te va a encajar perfecto. Contamos con Wichay, nuestra incubadora de negocios que te conecta con mentores con experiencia en negocios y puedan guiarte en la creación de tu empresa y capital semilla real para tus proyectos que puedas tener en mente. \nAdemás, el Growth Center potencia tus habilidades directivas con talleres de oratoria y liderazgo, y en nuestra red nacional FabLab dispones de impresoras 3D para prototipar tus productos. Es una formación corporativa diseñada para que seas competitivo al más alto nivel. Si dejamos esto listo hoy, ya mañana empiezas a formar parte de esta experiencia.¿Validamos tus datos para el admisión?\"",
+      "tags": "técnico, indeciso, duda de calidad online",
+      "links": "https://wichay.pe/\nhttps://growthcenter.pe/\nhttps://fablab.ucontinental.edu.pe/"
+    },
+    {
+      "titulo": "🎨 Vive Continental (Arte, Deporte y Comunidad)",
+      "concepto": "✅ Talleres artísticos, elencos culturales y clubes de lectura/cine orientados a desarrollar habilidades blandas y creatividad.\n✅ Selecciones deportivas oficiales para representation institucional competitiva.\n✅ Redes de voluntariado, proyectos de responsabilidad social con impacto real y eventos de integración virtuales y presenciales para potenciar tu networking.",
+      "speech": "\"...Parte fundamental del crecimiento profesional es el networking, y en la Continental lo potenciamos de forma muy natural. A través de 'Vive Continental' puedes participar en talleres artísticos, selecciones deportivas o redes de voluntariado con impacto real, tanto presenciales como virtuales. Esto te ayuda a desarrollar habilidades directivas y, sobre todo, a construir una red de contactos clave con profesionales de todo el país ya que podrás conecer alumnos de diferentes carreras. Vale totalmente la pena dar el paso de una vez para que ganes este nivel de vinculación. ¿Qué medio de pago prefieres usar para la matrícula?\"",
+      "tags": "indeciso, ocupado, precio"
+    }
+  ],
+  "modalidad": [
+    {
+      "titulo": "⏱️ Metodología Flexible (Síncrona + Asíncrona) 24/7",
+      "concepto": "✅ Organisation Modular: Ciclos de 4 meses divididos en 2 bloques (A y B) de 2 meses cada uno, llevando 3 cursos en promedio por bloque para maximizar la concentración.\n✅ Clases en Vivo Flexibles: De 2 a 3 sesiones semanales en horario nocturno (6:00 p. m. a 10:00 p. m.) de 1.5 a 2 horas cada una.\n✅ Cero Penalidades: Grabación completa de todas las sesiones en el aula virtual para acceso asíncrono ilimitado sin afectación de notas por inasistencia.\n✅ Recursos: Laboratorios virtuales, simuladores interactivos avanzados, e-books y licencias completas de Microsoft y Google.",
+      "speech": "\"...Justo por la falta de tiempo que me comentas, nuestra modalidad a distancia está diseñada exactamente para optimizar tus horarios. El ciclo dura 4 meses pero se divide en bloques de 2 meses, llevando solo 3 cursos a la vez en cada bloque para que te concentres mejor. Las clases en vivo son de noche, solo 2 o 3 veces por semana, y si por turnos de trabajo no puedes conectarte, todo queda grabado para acceso 24/7 sin ninguna penalidad. Es una estructura que se adapta a ti para que no descuides tus actividades personales. Cerremos esto hoy mismo para asegurar tu horario ya que quedan pocas vacantes. ¿Te parece si iniciamos el proceso?\"",
+      "tags": "ocupado, falta de tiempo, duda de calidad online"
+    },
+    {
+      "titulo": "🤝 Networking Estratégico y Contactos Top",
+      "concepto": "✅ Perfil de Aula: Interacción con compañeros que ya se desempeñan como jefes, gerentes, emprendedores y ejecutivos técnicos, dinamizando los debates y propiciando alianzas estratégicas.\n✅ Vinculación Global: Conexión preferencial y directa con la Oficina de Internacionalización para gestionar intercambios y misiones académicas con universidades aliadas en EE. UU., Europa y América Latina.",
+      "speech": "\"...Escuchando el perfil que manejas, hay un valor exclusivo en las aulas de la Continental que te va a servir muchísimo. Al ser una modalidad ejecutiva a distancia, tus compañeros de clase ya no serán alumnos de recien egresados de colegio si no son profesionales que ya están metidos de lleno en el mercado: jefes, gerentes y emprendedores de todo el Perú. Eso hace que los debates sean de alto nivel y te abre puertas directas a alianzas comerciales o mejores oportunidades laborales. Es una inversión inteligente para potenciar tus contactos estratégicos de una vez. ¿Qué te parece potenciar tus contactos a nivel nacional? ¿Iniciamos verdad?\"",
+      "tags": "indeciso, duda de calidad online"
+    },
+    {
+      "titulo": "📱 Flexibilidad Digital y Accesibilidad Económica",
+      "concepto": "✅ Ecosistema Adaptativo: Centralización de simuladores y recursos del Hub de Información accesibles en un solo punto.\n✅ Optimización de Hardware: Plataformas y campus virtuales 100% responsivos optimizados para ejecutarse de manera fluida en smartphones, tablets o laptops estándar, eliminando el requisito de adquirir computadoras costosas.\n✅ Comunicación Remota: Conectividad fluida y bidireccional en tiempo real con docentes expertos desde cualquier ubicación geográfica.",
+      "speech": "\"...Pensando en cuidar tu inversión, el ecosistema digital de la Continental no requiere que gastes en computadoras costosas o de última generación. Todo nuestro campus virtual, los simuladores y las clases en vivo están optimizados para funcionar de forma fluida en la laptop que ya tienes, una tablet o incluso desde tu celular. Tienes toda la universidad en la palma de tu mano sin costos adicionales de equipo. Es la solución ideal para avanzar a tu ritmo con total comodidad. ¿Te parece si validamos tu registro de una vez para alcanzar una vacante?\"",
+      "tags": "precio, precio alto, falta de tiempo"
+    }
+  ],
+  "carreras": {
+    "administracion": {
+      "nombre": "Administración",
+      "subcategories": [
+        {
+          "item": "1.1 ¿De qué trata la carrera?",
+          "concepto": "Consiste en aprender a liderar, planificar y hacer crecer todo tipo de empresas de forma eficiente y moderna. Estudiarás la gestión de negocios, estrategias de crecimiento, innovación empresarial y toma de decisiones basadas en datos comerciales.\n👉 ¿Dónde trabajar en Perú?: En el mercado peruano, podrás trabajar en puestos muy atractivos como Gerente de Operaciones, Consultor de Negocios, Administrador Corporativo, Director de Proyectos o liderando tu propia empresa o Startup. Los sectores con mayor demanda son el sector Financiero y Bancario, Consumo Masivo (Alicorp, Backus, Nestlé), Retail (Falabella, Intercorp), Empresas de Tecnología y Consultoría Estratégica.",
+          "speech": "\"...Si tu objetivo es liderar y tomar decisiones a nivel corporativo, Administración en la Continental es el camino exacto. Te formamos en finanzas estratégicas, gestión de mercado e innovación, con un perfil directo para asumir puestos como Gerente de Operaciones o Consultor de Negocios en marcas top como Intercorp o Alicorp. Con el respaldo de nuestra marca, tu título pesa fuerte en el mercado. No sigas postergando este crecimiento.",
+          "tags": "indeciso, ocupado"
+        },
+        {
+          "item": "1.2 Certificaciones Progresivas",
+          "concepto": "✅ 9no Ciclo: Mentalidad Ágil.\n✅ 10mo Ciclo: Desarrollo Empresarial Sostenible.\n✅ Idiomas: Inglés formativo gratuito e incluido dentro de la malla curricular.\n👉 ¿Qué hace esto?: Te otorga diplomas oficiales en metodologías modernas de trabajo y sostenibilidad empresarial mientras vas estudiando, además de incluir el idioma inglés sin pagar más.\n👉 ¿En qué ayuda?: Hace que tu currículum sea mucho más potente y atractivo para las empresas, permitiéndote postular a mejores puestos o ascensos incluso antes de graduarte.",
+          "speech": "\"...Una de las mayores ventajas que implementamos in esta carrera es que vas potenciando tu CV antes de graduarte. La malla te otorga de forma gratuita certificaciones oficiales en Mentalidad Ágil en el noveno ciclo y Desarrollo Empresarial Sostenible en el décimo, además de inglés corporativo incluido. Esto demuestra a las empresas que tienes competencias listas para la acción. Si dejamos esto cerrado hoy, ya aseguras estos beneficios en tu plan de estudios.",
+          "tags": "técnico, precio"
+        },
+        {
+          "item": "1.3 Laboratorios y Simuladores",
+          "concepto": "✅ Simuladores Internacionales de Negocios: BOSS y LABSAG.\n✅ Incubadora de Negocios: Mentoría directa mediante la red de Wichay.\n👉 ¿Qué hace esto?: Son plataformas digitales interactivas que imitan a la perfección cómo funciona el mercado, las finanzas y las decisiones de una empresa real.\n👉 ¿En qué ayuda?: Te permite practicar de forma segura y divertida tomando decisiones de gerencia real en la computadora, aprendiendo a liderar sin correr riesgos económicos reales.",
+          "speech": "\"...Justo para asegurar que tu aprendizaje sea práctico y no solo teoría, en la Continental te entrenas con simuladores gerenciales internacionales como BOSS y LABSAG, donde manejas decisiones corporativas reales en entornos digitales seguros. Además, cuentas con el respaldo directo de la incubadora Wichay para tus proyectos personales. Es una formación de alta tecnología pensada en tu competitividad.",
+          "tags": "técnico, duda de calidad online"
+        },
+        {
+          "item": "1.4 Cursos Electivos",
+          "concepto": "✅ Generales (2° a 7° Ciclo): Inteligencia Artificial para la Ciudadanía Digital, Habilidades para la Empleabilidad.\n✅ Especialidad (9no y 10mo Ciclo): Negocios Internacionales, Diseño de Aplicativos Digitales para los Negocios, Prototyping, Entorno Legal para Negocios y Franquicias.",
+          "speech": "\"...Para alinear la carrera exactamente con tus metas, en los últimos ciclos tú mismo personalizas tus estudios eligiendo cursos electivos avanzados como Diseño de Aplicativos Digitales para Negocios o Entorno de Franquicias. Es un formato adaptativo muy valorado por profesionales activos. Vale totalmente la pena dar el paso hoy mismo.",
+          "tags": "técnico, ocupado"
+        },
+        {
+          "item": "1.5 Carreras con DOBLE TITULACIÓN",
+          "concepto": "✅ Doble Grado EE. UU.: Continental Florida University (CFU) en Business Administration, Data Science, Industrial Engineering, Computer Science o Psychology.\n✅ Doble Grado México: Universidad Continental de México (CUMx) en Mercadotecnia o Ingeniería Industrial.",
+          "speech": "\"...Escuchando tu visión internacional, hay una opción de exclusividad en nuestra propuesta que te va a encajar perfecto. Tienes la oportunidad de realizar un Doble Grado Internacional con la Continental Florida University para egresar con tu título peruano y un grado oficial norteamericano a la vez. Es una decisión inteligente que multiplica tu valor profesional en cualquier parte del mundo.",
+          "tags": "precio alto, técnico"
+        }
+      ]
+    },
+    "administracion_finanzas": {
+      "nombre": "Administración y Finanzas",
+      "subcategories": [
+        {
+          "item": "1.1 ¿De qué trata la carrera?",
+          "concepto": "Se enfoca en la gestión inteligente del dinero en las empresas: cómo invertirlo, cómo armar presupuestos ganadores, cómo reducir riesgos y cómo multiplicar las ganancias del negocio.\n👉 ¿Dónde trabajar en Perú?: Podrás desempeñarte con total éxito en puestos comerciales y estratégicos como Analista de Inversiones, Subgerente Financiero, Jefe de Tesorería, Administrador de Riesgos Corporativos o Consultor Financiero. Los sectores clave en el Perú son la Banca y Seguros (BCP, BBVA, Interbank, Rímac), Administradoras de Fondos (AFPs), Empresas de Auditoría Financiera, Sociedades Agentes de Bolsa y áreas de tesorería de grandes corporaciones comerciales y mineras.",
+          "speech": "\"...Si te interesa el control económico de las organizaciones, esta especialidad te prepara para ser el cerebro financiero de cualquier negocio. Aprenderás a evaluar inversiones de alto nivel, gestionar riesgos corporativos y optimizar la rentabilidad, orientándote a puestos clave en la banca comercial o corporaciones mineras. Tienes el respaldo de nuestra marca para asegurar una inserción competitiva.",
+          "tags": "indeciso, técnico"
+        },
+        {
+          "item": "1.2 Certificaciones Progresivas",
+          "concepto": "✅ 6to Ciclo: Gestión de Mercados Financieros.\n✅ 10mo Ciclo: Gestión de Inversiones.\n✅ Idiomas: Inglés formativo integrado de forma gratuita dentro de la estructura curricular.\n👉 ¿Qué hace esto?: Te otorga títulos oficiales en manejo de dinero, bolsa de valores e inversiones antes de acabar tus estudios, con clases de inglés integradas sin costo extra.\n👉 ¿En qué ayuda?: Valida tus conocimientos técnicos para que puedas trabajar y ganar experiencia en las áreas financieras de las empresas desde ciclos intermedios.",
+          "speech": "\"...Justo para que ganes competitividad rápida en el sector corporativo, nuestra estructura incluye certificaciones oficiales gratuitas en Gestión de Mercados Financieros en el sexto ciclo y Gestión de Inversiones en el décimo, además de inglés integrado. Son credenciales técnicas de alto valor que potencian tu CV desde las aulas. Si dejamos esto listo hoy, ya mañana aseguras estos beneficios.",
+          "tags": "técnico, precio"
+        },
+        {
+          "item": "1.3 Laboratorios y Simuladores",
+          "concepto": "✅ Entorno de Aprendizaje Adaptativo: Plataformas de personalización y acompañamiento técnico continuo.\n✅ Inserción Temprana: Acceso a la Bolsa de Trabajo e intensivos talleres de empleabilidad avanzados.\n👉 ¿Qué hace esto?: Son herramientas digitales modernas que personalizan tu aprendizaje práctico y te preparan intensivamente para postular a empleos financieros reales.\n👉 ¿En qué ayuda?: Hace que te adaptes más rápido a los sistemas digitales financieros del mercado y te ayuda a conseguir un gran empleo gracias al acompañamiento de nuestros expertos.",
+          "speech": "\"...Para garantizar tu destreza práctica, operamos con un entorno de aprendizaje adaptativo mediante plataformas digitales modernas que analizan datos financieros del mercado en tiempo real, junto con talleres de empleabilidad avanzados desde ciclos intermedios. Es una solución pensada exactamente en que sepas ejecutar estrategias desde el primer día de trabajo.",
+          "tags": "ocupado, duda de calidad online"
+        },
+        {
+          "item": "1.4 Cursos Electivos",
+          "concepto": "✅ Generales (2° a 7° Ciclo): Inteligencia Artificial para la Ciudadanía Digital, Inserción Laboral.\n✅ Especialidad (9no y 10mo Ciclo): Finanzas Corporativas, Planeamiento Financiero, Gestión de Riesgos, Mercados Financieros.",
+          "speech": "\"...Para darte una ventaja exclusiva en el mercado analítico, en tus últimos ciclos llevas cursos electivos avanzados como Planeamiento Financiero y Gestión de Riesgos Corporativos. Estudiarás exactamente lo que las grandes empresas demandan hoy en día. Vale totalmente la pena dar el paso para no postergar tu crecimiento.",
+          "tags": "técnico, ocupado"
+        },
+        {
+          "item": "1.5 Carreras con DOBLE TITULACIÓN",
+          "concepto": "✅ Doble Grado EE. UU.: Continental Florida University (CFU) en Business Administration o Data Science.",
+          "speech": "\"...Si apuntas a un perfil directivo global, la opción de Doble Titulación Internacional con la Continental Florida University es perfecta para ti. Puedes egresar con tu grado de la UC y, de forma paralela, un título oficial norteamericano en Business Administration o Data Science. Es una inversión de alto valor que te abre fronteras comerciales absolutas.",
+          "tags": "precio alto, técnico"
+        }
+      ]
+    },
+    "administracion_talento_humano": {
+      "nombre": "Administración y Gestión del Talento Humano",
+      "subcategories": [
+        {
+          "item": "1.1 ¿De qué trata la carrera?",
+          "concepto": "Se enfoca en dirigir el recurso más valioso de cualquier empresa: sus trabajadores. Aprenderás estrategias modernas para seleccionar al mejor personal, capacitarlos, motivarlos, armar planes de sueldos atractivos y crear un gran clima laboral donde todos amen trabajar.\n👉 ¿Dónde trabajar en Perú?: Podrás trabajar en puestos espectaculares como Jefe de Selección y Reclutamiento, Gerente de Recursos Humanos, Especialista en Clima y Cultura Organizacional o Consultor de Headhunting. Los sectores con mayor crecimiento en Perú son el sector Corporativo, Empresas de Consumo Masivo, Retail, Grandes Consultoras de Empleo (Manpower, Adecco) y en general cualquier empresa mediana o grande que busque potenciar su equipo de trabajo.",
+          "speech": "\"...Si tu interés está orientado a la dirección estratégica de equipos, esta especialidad te capacita para liderar el área de Recursos Humanos, clima organizacional y planes de compensaciones en corporaciones comerciales o sectores industriales. Las empresas modernas buscan profesionales con este perfil analítico y humano para puestos de alta gerencia. Con el respaldo de nuestra marca, aseguras un posicionamiento sólido en el mercado.",
+          "tags": "indeciso, ocupado"
+        },
+        {
+          "item": "1.2 Certificaciones Progresivas",
+          "concepto": "✅ 8vo Ciclo: Contrataciones y Nóminas.\n✅ 10mo Ciclo: Relaciones Laborales y Legislación.\n✅ Idiomas: Inglés formativo gratuito integrado directamente en tu plan académico.\n👉 ¿Qué hace esto?: Te certifica oficialmente ante el mercado en el manejo legal de contratos, planillas, sueldos y leyes laborales del Perú antes de terminar la universidad.\n👉 ¿En qué ayuda?: Te da un respaldo legal y de gestión muy fuerte para que asumas puestos de supervisión o jefaturas en Recursos Humanos de forma más rápida.",
+          "speech": "\"...Para acelerar tu crecimiento en áreas de Recursos Humanos, nuestra malla te entrega certificaciones progresivas gratuitas de alto impacto como Contrataciones y Nóminas en el octavo ciclo y Relaciones Laborales y Legislación en el décimo, además de inglés corporativo incluido. Son credenciales clave para postular a puestos directivos con seguridad legal. Si cerramos tu proceso hoy, dejas este beneficio asegurado.\"",
+          "tags": "técnico, precio"
+        },
+        {
+          "item": "1.3 Laboratorios y Simuladores",
+          "concepto": "✅ Herramientas de Gestión de Talento: Software avanzado de simulación de planillas y reclutamiento digital interactivo.\n✅ Conexiones Corporativas: Simulacros de entrevistas por competencias con gerentes de Recursos Humanos activos.\n👉 ¿Qué hace esto?: Utilizas software moderno para aprender a simular planillas de pago y participas en entrenamientos interactivos con directores de talento reales.\n👉 ¿En qué ayuda?: Te otorga la experiencia exacta de cómo se contrata y se maneja al personal hoy en día, asegurando que sepas liderar el área sin dudar.",
+          "speech": "\"...Buscando que tu perfil sea 100% operativo, aprenderás con herramientas digitales avanzadas en la simulación de planillas y reclutamiento interactivo moderno, sumado a simulacros de entrevistas por competencias con gerentes de Recursos Humanos activos de marcas líderes. Es un entrenamiento premium diseñado para destacar en el mercado actual.\"",
+          "tags": "ocupado, duda de calidad online"
+        },
+        {
+          "item": "1.4 Cursos Electivos",
+          "concepto": "✅ Generales (2° a 7° Ciclo): Inteligencia Artificial para la Ciudadanía Digital, Empleabilidad.\n✅ Especialidad (9no y 10mo Ciclo): Auditoría de Recursos Humanos, Gestión del Cambio Organizacional, Negociación Colectiva, Indicadores de Gestión Humana (KPIs).",
+          "speech": "\"...Para afilar tus destrezas directivas, en los últimos ciclos puedes llevar electivos especializados de alto valor estratégico como Indicadores de Gestión Humana (KPIs) o Gestión del Cambio Organizacional. Estudiarás herramientas analíticas exactas para transformar empresas. Iniciemos con tu registro hoy mismo para asegurar tu vacante.\"",
+          "tags": "técnico, ocupado"
+        },
+        {
+          "item": "1.5 Carreras con DOBLE TITULACIÓN",
+          "concepto": "✅ Doble Grado EE. UU.: Continental Florida University (CFU) en Business Administration.",
+          "speech": "\"...Si tu meta es liderar la gestión humana a nivel multinacional, el Doble Grado Internacional con la Continental Florida University es ideal. Te permite egresar con el título de la Universidad Continental y paralelamente obtener el grado americano en Business Administration. Es la mejor manera de proyectar tu carrera hacia mercados internacionales sin salir de casa.\"",
+          "tags": "precio alto, técnico"
+        }
+      ]
+    },
+    "contabilidad": {
+      "nombre": "Contabilidad",
+      "subcategories": [
+        {
+          "item": "1.1 ¿De qué trata la carrera?",
+          "concepto": "Te enseña a ser el estratega financiero de las organizaciones, analizando costos, declarando impuestos de forma inteligente y auditando estados financieros para asegurar que el negocio sea rentable, legal y exitoso.\n👉 ¿Dónde trabajar en Perú?: Podrás ejercer en puestos muy demandados como Contador General, Auditor Financiero, Asesor Tributario, Perito Contable Judicial o Contralor Corporativo. Los sectores estrella en Perú son las firmas de auditorías internacionales (Big Four: EY, PwC, KPMG, Deloitte), corporaciones del sector Minero y de Construcción, entidades públicas (SUNAT, MEF) y en consultoras tributarias independientes.",
+          "speech": "\"...Contabilidad en la Continental te forma como un estratega tributario y financiero integral. Aprenderás a dominar la auditoría de negocios, planificación fiscal avanzada y la optimización de costos, proyectándote a grandes firmas de auditoría o corporaciones del sector minero. Es una carrera con demanda empresarial garantizada. Avancemos con tu admisión hoy mismo.\"",
+          "tags": "indeciso, técnico"
+        },
+        {
+          "item": "1.2 Certificaciones Progresivas",
+          "concepto": "✅ 6to Ciclo: Contabilidad Financiera Aplicada.\n✅ 10mo Ciclo: Auditoría Integral y Control Interno.\n✅ Idiomas: Inglés técnico integrado sin costos adicionales en las pensiones.\n👉 ¿Qué hace esto?: Te otorga certificados oficiales en auditoría contable y estados financieros a mitad de carrera, con inglés incluido gratis.\n👉 ¿En qué ayuda?: Te abre las puertas de forma inmediata a puestos de asistente contable o analista en firmas de prestigio antes de culminar tus estudios.",
+          "speech": "\"...Una gran ventaja de nuestra propuesta es que potencias tu perfil contable desde las aulas. Recibirás de forma gratuita certificaciones oficiales en Contabilidad Financiera Aplicada en el sexto ciclo y Auditoría Integral en el décimo, sumado al idioma inglés incorporado. Esto le demuestra al mercado que tienes capacidades técnicas operativas listas. Aseguremos este plan de estudios para ti hoy.\"",
+          "tags": "técnico, precio"
+        },
+        {
+          "item": "1.3 Laboratorios y Simuladores",
+          "concepto": "✅ Software Contable Líder: Concar y SIRE-SUNAT interactivo.\n✅ Laboratorio de Simulación Tributaria: Prácticas dinámicas integradas a plataformas contables reales.\n👉 ¿Qué hace esto?: Utilizas las mismas herramientas informáticas reales y plataformas de SUNAT con las que trabajan los estudios contables del país.\n👉 ¿En qué ayuda?: Te da la seguridad total de saber declarar impuestos y auditar libros contables digitales en la computadora de forma 100% práctica y sin errores.",
+          "speech": "\"...Para asegurar que domines las herramientas del mercado, en la Continental te entrenas de forma práctica con software contable líder como Concar y entornos de simulación interactiva SIRE-SUNAT, replicando la gestión fiscal real de las empresas. Aprenderás ejecutando, eliminando miedos técnicos. Es una excelente inversión de cara a tu empleabilidad.\"",
+          "tags": "ocupado, duda de calidad online"
+        },
+        {
+          "item": "1.4 Cursos Electivos",
+          "concepto": "✅ Generales (2° a 7° Ciclo): Inteligencia Artificial para la Ciudadanía Digital, Desarrollo de Habilidades Profesionales.\n✅ Especialidad (9no y 10mo Ciclo): Tributación Sectorial (Minería y Construcción), Normas Internacionales de Información Financiera (NIIF Avanzado), Peritaje Contable, Auditoría Forense.",
+          "speech": "\"...Para diferenciarte de otros contadores, en los ciclos finales personalizas tu carrera con electivos de alta demanda como Tributación Sectorial en Minería o Auditoría Forense. Esto te da una especialización única en el mercado de sueldos ejecutivos. ¿Te parece si validamos tus datos para iniciar el proceso de una vez?\"",
+          "tags": "técnico, ocupado"
+        },
+        {
+          "item": "1.5 Carreras con DOBLE TITULACIÓN",
+          "concepto": "✅ Doble Grado EE. UU.: Continental Florida University (CFU) en Business Administration o Data Science.",
+          "speech": "\"...Si quieres llevar tu carrera al ámbito internacional, la opción de Doble Titulación con la Continental Florida University es perfecta. Podrás graduarte con el grado de la UC y, además, obtener un título oficial americano en Business Administration o Data Science. Esto te capacita para liderar corporaciones financieras globales con total solidez.\"",
+          "tags": "precio alto, técnico"
+        }
+      ]
+    },
+    "economia": {
+      "nombre": "Economía",
+      "subcategories": [
+        {
+          "item": "1.1 ¿De qué trata la carrera?",
+          "concepto": "Te entrena para entender cómo funciona el dinero, los mercados y las finanzas a gran escala. Aprenderás a analizar datos económicos, predecir tendencias de mercado, evaluar proyectos de inversión y proponer políticas para el crecimiento de empresas y países.\n👉 ¿Dónde trabajar en Perú?: Tendrás un perfil de altísimo nivel para trabajar como Analista de Estudios Económicos, Consultor de Inversiones, Gerente de Planeamiento, Evaluador de Proyectos de Impacto o en el sector público. Los lugares con mayor demanda y prestigio son el Banco Central de Reserva del Perú (BCRP), Ministerios (MEF, MINCOTUR), Organismos Reguladores (OSINERGMIN, SBS), AFP, Bancos de Inversión y Consultoras Económicas (Apoyo Consultoría).",
+          "speech": "\"...Estudiar Economía en la Continental te convierte en un estratega financiero de alto nivel analítico. Te preparamos intensamente para evaluar riesgos del mercado, formular proyectos de inversión y entender la macroeconomía, perfilándote hacia consultoras estratégicas o entidades financieras líderes de nuestro país. Es un camino corporativo excelente. Iniciemos tu inscripción de una vez.\"",
+          "tags": "indeciso, técnico"
+        },
+        {
+          "item": "1.2 Certificaciones Progresivas",
+          "concepto": "✅ 6to Ciclo: Análisis de Datos Económicos.\n✅ 10mo Ciclo: Formulación y Evaluación de Proyectos de Inversión.\n✅ Idiomas: Inglés formativo especializado gratuito incluido en la malla de estudios.\n👉 ¿Qué hace esto?: Te otorga diplomas oficiales en manejo de grandes volúmenes de datos económicos e inversiones financieras antes de egresar, sumando inglés sin pagar extras.\n👉 ¿En qué ayuda?: Hace que las empresas financieras te busquen desde ciclos intermedios por tu capacidad técnica para hacer modelos de mercado en computadoras.",
+          "speech": "\"...Una de las mayores ventajas que te damos es que tu CV se potencia a mitad de carrera. Obtendrás certificaciones oficiales en Análisis de Datos Económicos en el sexto ciclo y Evaluación de Proyectos en el décimo, con inglés corporativo incluido sin costo extra. Esto certifica tus competencias analíticas en tiempo real. Si aseguramos tu matrícula hoy, dejas estos beneficios listos.\"",
+          "tags": "técnico, precio"
+        },
+        {
+          "item": "1.3 Laboratorios y Simuladores",
+          "concepto": "✅ Software Econométrico Avanzado: Acceso virtual a licencias de Stata, EViews y entornos de simulación de mercados financieros.\n✅ Mentoría en Investigación: Apoyo directo en el desarrollo de modelos predictivos.\n👉 ¿Qué hace esto?: Trabajas en laboratorios virtuales con programas de computación de alto nivel que usan los bancos centrales para predecir la inflación y el mercado.\n👉 ¿En qué ayuda?: Aprendes de forma práctica a procesar datos y crear gráficos de predicción financiera real, garantizando que tu perfil sea sumamente técnico y valorado.",
+          "speech": "\"...Para asegurar que seas un profesional competitivo, la Continental te brinda acceso a laboratorios virtuales con software econométrico especializado como Stata y EViews, que son las herramientas reales empleadas por el BCR y grandes consultoras de inversión. Aprenderás con tecnología avanzada desde tu hogar. Es una gran solución para potenciar tu perfil.\"",
+          "tags": "ocupado, duda de calidad online"
+        },
+        {
+          "item": "1.4 Cursos Electivos",
+          "concepto": "✅ Generales (2° a 7° Ciclo): Inteligencia Artificial para la Ciudadanía Digital, Herramientas Tecnológicas.\n✅ Especialidad (9no y 10mo Ciclo): Economía Financiera Avanzada, Regulación de Mercados, Big Data Aplicada a la Economía, Fintech y Finanzas Digitales.",
+          "speech": "\"...Pensando en las tendencias del futuro, en los ciclos finales llevas cursos electivos sumamente innovadores como Big Data Aplicada a la Economía o Finanzas Digitales (Fintech). Estudiarás la economía del futuro moderno. Vale totalmente la pena dar este paso inteligente hoy mismo. ¿Te parece si validamos tus datos para el registro?\"",
+          "tags": "técnico, ocupado"
+        },
+        {
+          "item": "1.5 Carreras con DOBLE TITULACIÓN",
+          "concepto": "✅ Doble Grado EE. UU.: Continental Florida University (CFU) en Business Administration o Data Science.",
+          "speech": "\"...Si apuntas al mercado global, la opción de Doble Titulación Internacional con la Continental Florida University es fantástica. Egresas con tu grado de la UC y obtienes el título oficial americano en Business Administration o Data Science. Es una inversión de gran valor que te posicionará en la cumbre del mercado analítico internacional.\"",
+          "tags": "precio alto, técnico"
+        }
+      ]
+    },
+    "ingenieria_sistemas_informatica": {
+      "nombre": "Ingeniería de Sistemas e Informática",
+      "subcategories": [
+        {
+          "item": "1.1 ¿De qué trata la carrera?",
+          "concepto": "Consiste en aprender a diseñar, desarrollar y proteger la tecnología de las empresas. Estudiarás la creación de software, inteligencia artificial, gestión de redes, ciberseguridad, bases de datos y la dirección de proyectos tecnológicos complejos.\n👉 ¿Dónde trabajar en Perú?: Podrás liderar áreas tecnológicas en puestos de gran demanda y sueldos altos como Arquitecto de Software, Gerente de TI (Tecnologías de Información), Ingeniero de Ciberseguridad, Director de Transformación Digital o Desarrollador Full Stack. Los sectores clave en el Perú son Empresas de Telecomunicaciones (Claro, Movistar), la Banca (Banca Digital), Fábricas internacionales de Software, Consultoras de Tecnología y Startups tecnológicas locales o internacionales.",
+          "speech": "\"...Ingeniería de Sistemas e Informática en la Continental te forma para liderar la transformación tecnológica del país. Aprenderás sobre desarrollo de software a gran escala, ciberseguridad e inteligencia artificial, preparándote para puestos directivos de TI con alta remuneración en el mercado corporativo actual. Aseguremos tu vacante en esta carrera de alta demanda hoy mismo.\"",
+          "tags": "indeciso, técnico"
+        },
+        {
+          "item": "1.2 Certificaciones Progresivas",
+          "concepto": "✅ 4to Ciclo: Soporte de TI y Redes Computacionales.\n✅ 8vo Ciclo: Gestión de Proyectos de Software con Metodologías Ágiles.\n✅ Idiomas: Inglés técnico integrado y obligatorio sin costo adicional en tus cuotas académicas.\n👉 ¿Qué hace esto?: Te otorga títulos oficiales en soporte tecnológico y dirección de proyectos ágiles antes de graduarte, con clases de inglés integradas gratis.\n👉 ¿En qué ayuda?: Potencia tu currículum de forma contundente para que consigas empleos de programación o administración de redes desde ciclos intermedios.",
+          "speech": "\"...Una ventaja exclusiva en nuestra ingeniería es la aceleración de tu inserción laboral. Recibirás certificaciones oficiales gratuitas en Soporte de TI en el cuarto ciclo y Gestión de Proyectos de Software ágiles en el octavo, con inglés técnico incluido. Esto te faculta para asumir retos y ascensos corporativos mucho antes de culminar. ¿Iniciamos con tu registro?\"",
+          "tags": "técnico, precio"
+        },
+        {
+          "item": "1.3 Laboratorios y Simuladores",
+          "concepto": "✅ Laboratorios Virtuales de Alta Computación: Acceso remoto a servidores en la nube, licencias oficiales de AWS (Amazon Web Services), Microsoft Azure y simuladores de redes Cisco.\n✅ Acreditación Internacional ICACIT: Garantía global de calidad educativa.\n👉 ¿Qué hace esto?: Entras desde tu laptop a potentes computadoras y servidores virtuales en la nube para programar, configurar redes complejas y bases de datos.\n👉 ¿En qué ayuda?: Te da la práctica exacta con las plataformas en la nube reales que usan Facebook, Netflix y los bancos, sin requerir una computadora carísima en casa.",
+          "speech": "\"...Para asegurar una formación de vanguardia, contamos con la acreditación internacional ICACIT y laboratorios virtuales avanzados donde accedes a herramientas de nube líderes como AWS y Microsoft Azure, además de simuladores Cisco. Aprenderás configurando arquitecturas de software reales desde tu casa. Es una solución de alta tecnología para tu éxito profesional.\"",
+          "tags": "ocupado, duda de calidad online"
+        },
+        {
+          "item": "1.4 Cursos Electivos",
+          "concepto": "✅ Generales (2° a 7° Ciclo): Inteligencia Artificial para la Ciudadanía Digital, Empleabilidad Digital.\n✅ Especialidad (9no y 10mo Ciclo): Cloud Computing (Computación en la Nube), Inteligencia de Negocios (Business Intelligence), Ciberseguridad Avanzada, Auditoría de Sistemas.",
+          "speech": "\"...Pensando en la especialización de mayor sueldo del mercado, en tus últimos ciclos eliges cursos electivos avanzados como Ciberseguridad Avanzada o Cloud Computing. Te especializarás exactamente en lo que las multinacionales buscan con desesperación hoy en día. Vale la pena cerrar este paso de una vez. ¿Con qué medio prefieres pagar la matrícula?\"",
+          "tags": "técnico, ocupado"
+        },
+        {
+          "item": "1.5 Carreras con DOBLE TITULACIÓN",
+          "concepto": "✅ Doble Grado EE. UU.: Continental Florida University (CFU) en Computer Science, Data Science o Cyber Security.",
+          "speech": "\"...Si tu visión es trabajar de forma remota para el extranjero, la opción de Doble Titulación Internacional con la Continental Florida University es perfecta. Puedes egresar con tu grado peruano y un título oficial norteamericano en Computer Science o Cyber Security. Esto elimina barreras y te permite facturar en mercados internacionales con total facilidad.\"",
+          "tags": "precio alto, técnico"
+        }
+      ]
+    },
+    "ingenieria_industrial": {
+      "nombre": "Ingeniería Industrial",
+      "subcategories": [
+        {
+          "item": "1.1 ¿De qué trata la carrera?",
+          "concepto": "Consiste en aprender a optimizar los procesos de producción y gestión en cualquier empresa para hacerla más eficiente, segura y rentable. Estudiarás la gestión de operaciones, cadena de suministro (logística), control de calidad, seguridad industrial y automatización empresarial.\n👉 ¿Dónde trabajar en Perú?: Podrás liderar en puestos gerenciales clave como Gerente de Operaciones, Director de Logística, Jefe de Planta, Supervisor de Seguridad y Salud Ocupacional o Consultor en Productividad. Los sectores con mayor demanda en Perú son el sector Minero, Empresas Industriales y de Manufactura, Plantas Agroindustriales de Exportación, Corporaciones Logísticas y Empresas de Consumo Masivo.",
+          "speech": "\"...Ingeniería Industrial en la Continental te prepara para ser el estratega operativo de las grandes industrias. Aprenderás a diseñar procesos eficientes, automatizar plantas de producción y dirigir la logística a nivel corporativo, orientándote a sectores de alto impacto económico como la minería o la agroexportación. Tienes todo el respaldo de nuestra marca. Avancemos hoy mismo.\"",
+          "tags": "indeciso, técnico"
+        },
+        {
+          "item": "1.2 Certificaciones Progresivas",
+          "concepto": "✅ 6to Ciclo: Gestión de Operaciones Logísticas.\n✅ 10mo Ciclo: Lean Six Sigma Green Belt (Optimización y Calidad Procesal).\n✅ Idiomas: Idioma inglés formativo e incluido de forma gratuita en tu malla curricular.\n👉 ¿Qué hace esto?: Te otorga un diploma internacional Green Belt (muy famoso en industrias) y un título en logística antes de acabar la carrera, sumando clases de inglés integradas.\n👉 ¿En qué ayuda?: Te da un estatus técnico altísimo para que las empresas te confíen la supervisión de sus plantas o almacenes, logrando mejores puestos rápido.",
+          "speech": "\"...Una de las mayores fortalezas de nuestra ingeniería es que te certificamos a nivel internacional antes de graduarte. Obtendrás de forma gratuita la certificación Lean Six Sigma Green Belt en el décimo ciclo y Gestión Logística en el sexto, con inglés integrado. Son credenciales industriales de élite que le darán un peso masivo a tu CV. Aseguremos tu plan hoy.\"",
+          "tags": "técnico, precio"
+        },
+        {
+          "item": "1.3 Laboratorios y Simuladores",
+          "concepto": "✅ Simuladores Industriales Internacionales: FlexSim (Simulación interactiva de plantas en 3D) y laboratorios virtuales avanzados de física y química.\n✅ Acreditación Internacional ICACIT y ABET: Respaldo educativo de nivel mundial.\n👉 ¿Qué hace esto?: Usas un software avanzado en 3D para diseñar y simular el movimiento de máquinas, almacenes y personal dentro de una fábrica virtual.\n👉 ¿En qué ayuda?: Aprendes a corregir cuellos de botella y mejorar la producción en la computadora de forma práctica, simulando problemas reales de fábricas sin correr riesgos físicos.",
+          "speech": "\"...Para asegurar tu destreza práctica con la máxima calidad, contamos con la acreditación internacional ICACIT y el potente simulador industrial FlexSim en 3D, donde diseñas y optimizas plantas de producción de forma interactiva en laboratorios virtuales avanzados. Aprenderás operando la tecnología que usan las grandes industrias del mundo desde casa.\"",
+          "tags": "ocupado, duda de calidad online"
+        },
+        {
+          "item": "1.4 Cursos Electivos",
+          "concepto": "✅ Generales (2° a 7° Ciclo): Inteligencia Artificial para la Ciudadanía Digital, Liderazgo Profesional.\n✅ Especialidad (9no y 10mo Ciclo): Automatización Industrial, Gestión de la Cadena de Suministro Global (Supply Chain Management), Innovación de Procesos, Gestión Ambiental Industrial.",
+          "speech": "\"...Para alinear la ingeniería con tus metas ejecutivas, en tus ciclos finales llevas cursos electivos de vanguardia como Supply Chain Management o Automatización Industrial. Estudiarás la ingeniería moderna aplicada al entorno corporativo global. Vale la pena dar este paso hoy mismo para asegurar tu vacante. ¿Iniciamos con tu admisión?\"",
+          "tags": "técnico, ocupado"
+        },
+        {
+          "item": "1.5 Carreras con DOBLE TITULACIÓN",
+          "concepto": "✅ Doble Grado EE. UU.: Continental Florida University (CFU) en Industrial Engineering o Data Science.\n✅ Doble Grado México: Universidad Continental de México (CUMx) en Ingeniería Industrial.",
+          "speech": "\"...Si apuntas a liderar operaciones a nivel internacional, el Doble Grado Internacional con la Continental Florida University es tu mejor opción. Podrás graduarte con tu título oficial peruano y un grado estadounidense en Industrial Engineering o Data Science de manera paralela. Es una decisión de altísimo valor que internacionaliza tu perfil por completo.\"",
+          "tags": "precio alto, técnico"
+        }
+      ]
+    },
+    "psicologia": {
+      "nombre": "Psicología",
+      "subcategories": [
+        {
+          "item": "1.1 ¿De qué trata la carrera?",
+          "concepto": "Te capacita para entender, evaluar y mejorar el comportamiento humano y la salud mental en los ámbitos clínico, educativo, social y empresarial (recursos humanos).\n👉 ¿Dónde trabajar en Perú?: Podrás desempeñarte con gran éxito en puestos muy atractivos como Psicólogo Clínico en hospitales o consultorios privados, Especialista en Clima y Selección Organizacional (Recursos Humanos) en grandes empresas, Psicólogo Educativo en colegios de prestigio o Consultor de Desarrollo Humano en ONGs. Las áreas corporativa (empresas de todo rubro) y clínica son las de mayor rentabilidad actual en Perú.",
+          "speech": "\"...Psicología en la Continental te brinda una formación integral y versátil. Te preparamos con fuerza en psicología clínica, educativa y organizacional, permitiéndote liderar áreas de recursos humanos en corporaciones o gestionar tu propio centro de salud mental con un enfoque moderno. Es una carrera con gran impacto social y laboral. Avancemos de una vez.\"",
+          "tags": "indeciso, técnico"
+        },
+        {
+          "item": "1.2 Certificaciones Progresivas",
+          "concepto": "✅ 6to Ciclo: Evaluación y Diagnóstico Psicológico Preventivo.\n✅ 10mo Ciclo: Intervención Psicosocial y Salud Mental Comunitaria.\n✅ Idiomas: Idioma inglés formativo e incluido de forma gratuita dentro de la estructura de pagos.\n👉 ¿Qué hace esto?: Te otorga diplomas oficiales en toma de pruebas contundentes y diagnóstico mental a mitad de carrera, incluyendo el idioma inglés gratis.\n👉 ¿En qué ayuda?: Respalda tus conocimientos técnicos para que realices prácticas pagadas o apoyes en evaluaciones psicológicas en colegios o empresas desde ciclos intermedios.",
+          "speech": "\"...Una ventaja muy importante que diseñamos en esta carrera es que vas acumulando logros antes de graduarte. Recibirás certificaciones oficiales gratuitas en Evaluación y Diagnóstico Psicológico en el sexto ciclo e Intervención en Salud Mental en el décimo, con inglés incluido. Son credenciales de alto valor que potencian tu empleabilidad. ¿Aseguramos tu vacante hoy?\"",
+          "tags": "técnico, precio"
+        },
+        {
+          "item": "1.3 Laboratorios y Simuladores",
+          "concepto": "✅ Plataforma Virtual de Pruebas Psicométricas: Acceso digital ilimitado a test psicológicos estandarizados y simuladores interactivos de consulta clínica (Casos Clínicos Virtuales).\n✅ Centro de Atención Psicológica (CAP): Espacio institucional para vinculación práctica real.\n👉 ¿Qué hace esto?: Es un entorno digital donde practicas resolviendo casos de pacientes virtuales interactivos y aplicas pruebas de inteligencia o personalidad en la computadora.\n👉 ¿En qué ayuda?: Te permite ganar experiencia práctica clínica de forma muy segura y dinámica, asegurando que sepas diagnosticar de manera correcta antes de atender a pacientes reales.",
+          "speech": "\"...Para garantizar tu destreza práctica con tecnología moderna, contamos con laboratorios virtuales de simulación clínica interactiva y acceso digital ilimitado a baterías de pruebas psicométricas estandarizadas, además de la opción de vincularte con nuestro CAP. Aprenderás diagnosticando casos reales en plataformas avanzadas desde tu hogar.\"",
+          "tags": "ocupado, duda de calidad online"
+        },
+        {
+          "item": "1.4 Cursos Electivos",
+          "concepto": "✅ Generales (2° a 7° Ciclo): Inteligencia Artificial para la Ciudadanía Digital, Habilidades Blandas.\n✅ Especialidad (9no y 10mo Ciclo): Psicología Forense y Criminalística, Neuropsicología Clínica, Gestión de Talento en Organizaciones, Psicoterapia de Esquemas.",
+          "speech": "\"...Para diferenciar tu perfil profesional, en tus últimos ciclos eliges cursos electivos muy atractivos de alta especialización como Psicología Forense y Criminalística o Neuropsicología Clínica. Estudiarás ramas de vanguardia sumamente valoradas en el mercado actual. Vale la pena dar el paso hoy mismo. ¿Te parece si registramos tus datos para admisión?\"",
+          "tags": "técnico, ocupado"
+        },
+        {
+          "item": "1.5 Carreras con DOBLE TITULACIÓN",
+          "concepto": "✅ Doble Grado EE. UU.: Continental Florida University (CFU) en Psychology o Business Administration.",
+          "speech": "\"...Si tu meta tiene un enfoque internacional, el Doble Grado Internacional con la Continental Florida University te dará una ventaja definitiva. Puedes egresar con tu título de la UC y el grado oficial americano en Psychology o Business Administration. Esto te abrirá las puertas para ejercer, investigar o trabajar en corporaciones globales con total validez americano.\"",
+          "tags": "precio alto, técnico"
+        }
+      ]
+    },
+    "derecho": {
+      "nombre": "Derecho",
+      "subcategories": [
+        {
+          "item": "1.1 ¿De qué trata la carrera?",
+          "concepto": "Te capacita para ser un defensor de la justicia y un asesor legal estratégico en empresas o el Estado. Estudiarás las leyes del país, litigación oral, contratos corporativos, resolución de conflictos, derecho penal, civil, laboral y derecho tributario.\n👉 ¿Dónde trabajar en Perú?: Podrás ejercer en puestos de alto prestigio como Abogado Corporativo en grandes empresas, Consultor Legal Senior, Fiscal, Juez, Árbitro Comercial, Abogado en Ministerios o en prestigiosos Estudios Jurídicos. Las áreas de Derecho Corporativo (empresarial), Tributario y de Cumplimiento (Compliance) son las que manejan los mejores ingresos económicos en Perú actualmente.",
+          "speech": "\"...Derecho en la Continental te forma con un perfil moderno de abogado corporativo y estratega legal. Te preparamos intensamente en litigación oral, derecho empresarial y cumplimiento corporativo, proyectándote hacia importantes estudios jurídicos o asesorías legales de grandes empresas del país. Es un título con gran solidez en el mercado laboral. Avancemos de una vez.\"",
+          "tags": "indeciso, técnico"
+        },
+        {
+          "item": "1.2 Certificaciones Progresivas",
+          "concepto": "✅ 6to Ciclo: Asesoría Jurídica y Conciliación Extrajudicial.\n✅ 10mo Ciclo: Litigación Oral y Defensa Procesal Avanzada.\n✅ Idiomas: Idioma inglés formativo e incluido de forma gratuita dentro de la malla curricular.\n👉 ¿Qué hace esto?: Te otorga diplomas oficiales en mecanismos alternativos de resolución de conflictos y técnicas de debate legal antes de graduarte, sumando inglés gratis.\n👉 ¿En qué ayuda?: Respalda tus capacidades para que ingreses a laborar en notarías, áreas legales o estudios jurídicos de prestigio como asistente legal destacado desde ciclos intermedios.",
+          "speech": "\"...Una gran ventaja de nuestra facultad de Derecho es la aceleración de tus méritos profesionales. Obtendrás de forma gratuita certificaciones oficiales en Asesoría Jurídica en el sexto ciclo y Litigación Oral en el décimo, además de inglés corporativo incluido. Son credenciales estratégicas de alto valor para destacar en el mercado procesal. Aseguremos este beneficio hoy.\"",
+          "tags": "técnico, precio"
+        },
+        {
+          "item": "1.3 Laboratorios y Simuladores",
+          "concepto": "✅ Salas de Audiencia Virtuales: Entornos de simulación interactiva para audiencias de juicios orales y arbitrajes corporativos.\n✅ Biblioteca Legal Unificada: Acceso digital 24/7 a bases de datos jurisprudenciales líderes como SPIJ y Legis.\n👉 ¿Qué hace esto?: Participas desde tu computadora en simulacros en vivo de juicios orales, desempeñando roles de fiscal, juez o abogado defensor en entornos interactivos.\n👉 ¿En qué ayuda?: Te brinda la destreza y seguridad total de saber hablar y argumentar en un juicio real, eliminando la timidez y dominando las técnicas de litigación moderna.",
+          "speech": "\"...Para garantizar que seas un abogado litigante seguro y dinámico, la Continental cuenta con salas de audiencia virtuales y acceso digital completo a bases de datos legales de vanguardia. Participarás en simulacros interactivos de juicios orales y arbitrajes empresariales desde tu casa, ganando fluidez y destreza práctica real desde el inicio.\"",
+          "tags": "ocupado, duda de calidad online"
+        },
+        {
+          "item": "1.4 Cursos Electivos",
+          "concepto": "✅ Generales (2° a 7° Ciclo): Inteligencia Artificial para la Ciudadanía Digital, Argumentación Jurídica.\n✅ Especialidad (9no y 10mo Ciclo): Derecho Corporativo y Compliance (Cumplimiento), Contrataciones con el Estado, Derecho Ambiental y de Recursos Naturales, Finanzas y Regulación Bancaria.",
+          "speech": "\"...Pensando en las especialidades legales mejor pagadas del sector empresarial, en tus últimos ciclos llevas cursos electivos avanzados como Derecho Corporativo y Compliance o Contrataciones con el Estado. Estudiarás la asesoría legal moderna que exigen las grandes corporaciones hoy en día. Vale la pena dar el paso hoy. ¿Validamos tus datos?\"",
+          "tags": "técnico, ocupado"
+        }
+      ]
+    },
+    "educacion_primaria": {
+      "nombre": "Educación Primaria",
+      "subcategories": [
+        {
+          "item": "1.1 ¿De qué trata la carrera?",
+          "concepto": "Te prepara para ser un educador líder y transformar la enseñanza de los niños de 6 a 12 años. Estudiarás metodologías de aprendizaje modernas, innovación pedagógica digital, psicología del desarrollo infantil, diseño de silabos y gestión de instituciones educativas eficientes.\n👉 ¿Dónde trabajar en Perú?: Podrás desempeñarte en puestos clave del sector como Profesor de Primaria en colegios privados de primer nivel o escuelas públicas, Director o Coordinador Pedagógico, Diseñador de Materiales Educativos en editoriales, Consultor en Innovación Educativa o gestor de tu propio centro de reforzamiento académico. Hay gran demanda de docentes que dominen entornos tecnológicos modernos.",
+          "speech": "\"...Educación Primaria en la Continental te forma como un docente del futuro e innovador pedagógico. Te capacitamos con fuerza en didáctica moderna, gestión de instituciones educativas y tecnologías digitales aplicadas a la enseñanza, proyectándote a coordinaciones académicas en colegios de prestigio del país. Es una carrera con gran propósito y alta demanda laboral. Cerremos tu inscripción hoy mismo.\"",
+          "tags": "indeciso, técnico"
+        },
+        {
+          "item": "1.2 Certificaciones Progresivas",
+          "concepto": "✅ 7mo Ciclo: Diseño y Elaboración de Recursos Educativos Multimedia.\n✅ 8vo Ciclo: Gestión y Dirección de Instituciones Educativas.\n✅ Idiomas: Idioma inglés formativo e incluido de forma gratuita en tu malla curricular de pagos.\n👉 ¿Qué hace esto?: Te otorga diplomas oficiales en creación de materiales digitales dinámicos y en dirección de escuelas antes de egresar, con clases de inglés integradas gratis.\n👉 ¿En qué ayuda?: Potencia drásticamente tu currículum para que puedas postular a puestos de coordinación, dirección o asesoría pedagógica multimedia, ganando mejores ingresos mucho más rápido.",
+          "speech": "\"...Una ventaja competitiva muy fuerte en nuestra carrera es que impulsamos tu jerarquía profesional desde las aulas. Recibirás certificaciones oficiales gratuitas en Recursos Multimedia en el séptimo ciclo y Gestión de Instituciones Educativas en el octavo, además de inglés gratis. Te gradúas con las competencias multimedia exactas que demandan las jefaturas corporativas actuales.\"",
+          "tags": "técnico, precio"
+        },
+        {
+          "item": "1.3 Laboratorios y Simuladores",
+          "concepto": "✅ Formato Técnico Adaptativo: Herramientas virtuales avanzadas y plataformas para el diseño de procesos pedagógicos automatizados e interactivos.\n👉 ¿Qué hace esto?: Son entornos virtuales avanzados de software donde creas aulas interactivas virtuales, programas dinámicas educativas con tecnologías modernas y experimentas con plataformas digitales de enseñanza.\n👉 ¿En qué ayuda?: Asegura de forma 100% práctica que domines los sistemas de gestión de aprendizaje más usados a nivel internacional con el apoyo constante de mentores expertos, sabiendo liderar proyectos desde tu hogar.",
+          "speech": "\"...Para asegurar que domines la pedagogía moderna, operamos bajo un ecosistema virtual educativo avanzado donde diseñas de forma interactiva entornos e-learning y aplicas metodologías didácticas digitales avanzadas en software de simulación, contando con tutoría personalizada constante de un asesor experto. Es una solución pensada exactamente en que alcances resultados prácticos desde el inicio. ¿Te parece si validamos tus datos para el registro formal?\"",
+          "tags": "ocupado, duda de calidad online"
+        }
+      ]
+    }
+  }
+}
